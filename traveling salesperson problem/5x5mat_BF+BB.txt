@@ -1,0 +1,42 @@
+-1	15	8	67	14	
+94	-1	57	62	21	
+35	25	-1	78	9	
+73	98	91	-1	1	
+35	72	74	36	-1	
+---Brute Force Method---
+Solution : 0 - 2 - 1 - 3 - 4 - 0
+Cost     : 131
+Time     : 6.1831e-05 s
+---Branch and Bound Method---
+Solution : 0 - 2 - 1 - 3 - 4 - 0
+Cost     : 131
+Time     : 6.1368e-05 s
+-----------------------------
+-1	15	8	67	14	
+94	-1	57	62	21	
+35	25	-1	78	9	
+73	98	91	-1	1	
+35	72	74	36	-1	
+---Brute Force Method---
+Solution : 0 - 2 - 1 - 3 - 4 - 0
+Cost     : 131
+Time     : 6.2196e-05 s
+---Branch and Bound Method---
+Solution : 0 - 2 - 1 - 3 - 4 - 0
+Cost     : 131
+Time     : 3.9257e-05 s
+-----------------------------
+-1	15	8	67	14	
+94	-1	57	62	21	
+35	25	-1	78	9	
+73	98	91	-1	1	
+35	72	74	36	-1	
+---Brute Force Method---
+Solution : 0 - 2 - 1 - 3 - 4 - 0
+Cost     : 131
+Time     : 5.083e-05 s
+---Branch and Bound Method---
+Solution : 0 - 2 - 1 - 3 - 4 - 0
+Cost     : 131
+Time     : 3.8789e-05 s
+-----------------------------
